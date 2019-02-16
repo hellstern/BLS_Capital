@@ -1,5 +1,6 @@
 # Excel kursus 6. marts
 BLS Capital Fondsmæglerselskab A/S
+ 
  ---
 
 ## Agenda
@@ -16,3 +17,7 @@ BLS Capital Fondsmæglerselskab A/S
 	+ VBA Editor
 	+ Variabler
 	+ Kontrolstrukturere - IF/CASE/LOOP
+
+---
+
+# Test
