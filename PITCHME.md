@@ -1,6 +1,5 @@
 # Excel kursus 6. marts
 BLS Capital Fondsmæglerselskab A/S
- 
  ---
 
 ## Agenda
