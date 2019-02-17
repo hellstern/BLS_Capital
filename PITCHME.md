@@ -1,14 +1,15 @@
-# Excel kursus 
-# 6. marts
+## Excel kursus 
+## 6. marts
+
 BLS Capital Fondsmæglerselskab A/S
+
+Tue Hellstern
  
 ---
 
-## Agenda
+## Kursus indhold
 
-- **Data tabeller**
-	+ Oprettelse
-	+ Udvælgelse
+- **Tabeller**
 - **Pivot Tabeller**
 	+ Oprettelse
 	+ Funktioner - SUM/COUNT/%
@@ -21,4 +22,21 @@ BLS Capital Fondsmæglerselskab A/S
 
 ---
 
-# Test 222
+# Tabeller
+	+ Oprettelse
+	+ Udvælgelse
+
+---
+
+# Pivot Tabeller
+	+ Oprettelse
+	+ Funktioner - SUM/COUNT/%
+	
+---
+
+# Introduktion til Makro/VBA**
+	+ Optage en makro
+	+ Afvikling af en makro
+	+ VBA Editor
+	+ Variabler
+	+ Kontrolstrukturere - IF/CASE/LOOP
